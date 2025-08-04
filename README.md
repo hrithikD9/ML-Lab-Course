@@ -1,7 +1,7 @@
 # ML-Lab-Course
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJiZGptOTZzN2JnazJpbmZsMXF1MjB0bzl3MWFpZHdvbmU0MmtocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt6fzS6qYbHZ7yM/giphy.gif" alt="Machine Learning Meme" width="500"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*Wmv3R_HQ9Nf0UsXBwT4z_A.gif" alt="Machine Learning Meme" width="500"/>
 </div>
 
 Repository containing materials, assignments, and projects for the Machine Learning course at North East University Bangladesh.
