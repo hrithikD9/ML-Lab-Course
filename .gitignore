@@ -1,0 +1,67 @@
+# Python virtual environment
+ml_env/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Local development settings
+.env
+.venv
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large data files
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.hdf5
+*.parquet
+*.feather
+
+# Model files (uncomment if you want to exclude these)
+# *.pt
+# *.pth
+# *.onnx
+# *.pb
+# *.savedmodel
+
+# Specific to Jupyter
+.jupyter/
+jupyter_notebook_config.py
+jupyter_notebook_config.json
+
+# Cache directories
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
